@@ -1,0 +1,21 @@
+src/index
+
+markdown
+
+componnetes de react:
+
+1 - son funciones
+    
+    funcion componente() {}
+
+    const componente = () => {}
+
+2 - siempre van en mayuscula
+    
+    const Componente = () => {}
+
+3 - siempre tienen retorno
+
+    const Componente = () => {
+        return "hola mundo"
+    }
